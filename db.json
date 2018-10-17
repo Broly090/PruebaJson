@@ -1,1 +1,30 @@
-{"menu":"[{\"product\":\"Amstel\",\"price\":2,\"group\":\"beer\",\"icon\":\"amstel\"},{\"product\":\"Aquabona 0.5L\",\"price\":1.25,\"group\":\"soda\",\"icon\":\"aquabona\"},{\"group\":\"soda\",\"product\":\"Fanta naranja 20cl\",\"icon\":\"fantanaranja\",\"price\":1.75},{\"product\":\"Bitter-Kas 20cl.\",\"price\":2,\"group\":\"soda\",\"icon\":\"bitterkas\"},{\"group\":\"coffee\",\"product\":\"Cafe bombon\",\"icon\":\"bombon\",\"price\":1.75},{\"group\":\"coffee\",\"product\":\"Cafe con leche\",\"icon\":\"cortado\",\"price\":1.75},{\"group\":\"coffee\",\"product\":\"Cafe cortado\",\"icon\":\"cortado\",\"price\":1.5},{\"group\":\"coffee\",\"product\":\"Cafe solo\",\"icon\":\"cafe\",\"price\":1.5},{\"group\":\"coffee\",\"product\":\"Carajillo (Veterano)\",\"icon\":\"cafe\",\"price\":3},{\"group\":\"soda\",\"product\":\"Coca-Cola 20cl\",\"icon\":\"cocacola\",\"price\":1.75},{\"group\":\"soda\",\"product\":\"Coca-Cola LIGHT 20cl\",\"icon\":\"cocacolalight\",\"price\":1.75},{\"group\":\"soda\",\"product\":\"Coca-Cola ZERO 0cl\",\"icon\":\"cocacolazero\",\"price\":1.75},{\"product\":\"Fanta limón 20cl\",\"price\":1.75,\"group\":\"soda\",\"icon\":\"fantalimon\"},{\"group\":\"soda\",\"product\":\"Aquabona 1L\",\"icon\":\"aquabona\",\"price\":2},{\"group\":\"beer\",\"product\":\"Heineken 33cl\",\"icon\":\"heineken\",\"price\":2},{\"group\":\"coffee\",\"product\":\"Infusion\",\"icon\":\"cafe\",\"price\":1.5},{\"group\":\"coffee\",\"product\":\"Leche con Cacao\",\"icon\":\"colacao\",\"price\":1.75},{\"group\":\"beer\",\"product\":\"Mahou 33cl\",\"icon\":\"mahou\",\"price\":2.5},{\"product\":\"Martini\",\"price\":3.5,\"group\":\"liquor\",\"icon\":\"martini\"},{\"product\":\"Ron Bacardi\",\"price\":3.5,\"group\":\"liquor\",\"icon\":\"bacardi\"},{\"product\":\"Ron Negrita\",\"price\":3.5,\"group\":\"liquor\",\"icon\":\"negrita\"},{\"group\":\"beer\",\"product\":\"San Miguel 0u00270 33cl\",\"icon\":\"sanmiguel-00\",\"price\":2.5},{\"group\":\"beer\",\"product\":\"San Miguel 33cl\",\"icon\":\"sanmiguel\",\"price\":2.5},{\"group\":\"soda\",\"product\":\"Tónica Schweppes 20cl\",\"icon\":\"schweppes\",\"price\":2},{\"group\":\"coffee\",\"product\":\"Vaso de leche\",\"icon\":\"leche\",\"price\":1},{\"product\":\"Vichy Catalan 33cl\",\"price\":2,\"group\":\"soda\",\"icon\":\"vichycatalan\"}]"}
+{
+	"menu":[
+	{ "product": "Amstel", "price": 2, "group": "beer", "icon": "amstel" },
+	{ "product": "Aquabona 0.5L", "price": 1.25, "group": "soda", "icon": "aquabona" },
+	{ "product": "Fanta naranja 20cl", "price": 1.75, "group": "soda", "icon": "fantanaranja" },
+	{ "product": "Bitter-Kas 20cl.", "price": 2, "group": "soda", "icon": "bitterkas" },
+	{ "product": "Cafe bombon", "price": 1.75, "group": "coffee", "icon": "bombon" },
+	{ "product": "Cafe con leche", "price": 1.75, "group": "coffee","icon": "cortado" },
+	{ "product": "Cafe cortado", "price": 1.5, "group": "coffee", "icon": "cortado" },
+	{ "product": "Cafe solo", "price": 1.5, "group": "coffee", "icon": "cafe" },
+	{ "product": "Carajillo (Veterano)", "price":3, "group": "coffee",  "icon": "cafe" },
+	{ "product": "Coca-Cola 20cl", "price": 1.75, "group": "soda",  "icon": "cocacola" },
+	{ "product": "Coca-Cola LIGHT 20cl", "price": 1.75, "group": "soda",  "icon": "cocacolalight" },
+	{ "product": "Coca-Cola ZERO 0cl", "price": 1.75, "group": "soda",  "icon": "cocacolazero" },
+	{ "product": "Fanta limón 20cl", "price": 1.75, "group": "soda", "icon": "fantalimon" },
+	{ "product": "Aquabona 1L", "price": 2, "group": "soda",  "icon": "aquabona" },
+	{ "product": "Heineken 33cl", "price": 2, "group": "beer",  "icon": "heineken" },
+	{ "product": "Infusion", "price": 1.5, "group": "coffee",  "icon": "cafe" },
+	{ "product": "Leche con Cacao", "price": 1.75, "group": "coffee",  "icon": "colacao" },
+	{ "product": "Mahou 33cl", "price": 2.5, "group": "beer",  "icon": "mahou" },
+	{ "product": "Martini", "price": 3.5, "group": "liquor", "icon": "martini" },
+	{ "product": "Ron Bacardi", "price": 3.5, "group": "liquor", "icon": "bacardi" },
+	{ "product": "Ron Negrita", "price": 3.5, "group": "liquor", "icon": "negrita" },
+	{ "product": "San Miguel 0u00270 33cl", "price": 2.5, "group": "beer",  "icon": "sanmiguel-00" },
+	{ "product": "San Miguel 33cl", "price": 2.5, "group": "beer",  "icon": "sanmiguel" },
+	{ "product": "Tónica Schweppes 20cl", "price": 2, "group": "soda",  "icon": "schweppes" },
+	{ "product": "Vaso de leche", "price": 1, "group": "coffee", "icon": "leche" },
+	{ "product": "Vichy Catalan 33cl", "price": 2, "group": "soda", "icon": "vichycatalan" }
+		]
+}
